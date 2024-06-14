@@ -1,0 +1,7 @@
+nav {
+    padding: 5px 10px;
+}
+
+.hoverLink :hover {
+    text-decoration: underline;
+}
